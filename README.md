@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Aplicación web sencilla para gestionar una lista de amigos y sortear de manera aleatoria un **amigo secreto**.  
+Cumpliendo el reto de crear una aplicación web sencilla para gestionar una lista de amigos y sortear de manera aleatoria un **amigo secreto**.  
 Permite **agregar, editar, eliminar** amigos y luego realizar el sorteo.
 
 ---
